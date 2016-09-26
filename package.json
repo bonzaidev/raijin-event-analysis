@@ -1,0 +1,15 @@
+{
+  "name": "raijin-event-analysis",
+  "version": "1.0.0",
+  "description": "event usage analysis and flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh",
+  "license": "ISC",
+  "devDependencies": {
+    "babylon": "^6.11.2"
+  }
+}
